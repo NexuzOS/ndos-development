@@ -1,0 +1,12 @@
+[submodule "Sources/MSDOS/MS-DOS"]
+	path = Sources/MSDOS/MS-DOS
+	url = https://github.com/microsoft/ms-dos
+[submodule "Sources/FDOS/kernel"]
+	path = Sources/FDOS/kernel
+	url = https://github.com/FDOS/kernel
+[submodule "Sources/FDOS/freecom"]
+	path = Sources/FDOS/freecom
+	url = https://github.com/FDOS/freecom
+[submodule "Sources/FDOS/sys"]
+	path = Sources/FDOS/sys
+	url = https://github.com/FDOS/sys
